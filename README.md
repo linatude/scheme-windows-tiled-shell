@@ -19,7 +19,7 @@ Provides a simple tiled user interface for Chez Scheme on Windows 10.
 
 #### Selfie
 
-<img src='https://github.com/alban-read/Scheme-Windows-Tiled-Shell/blob/master/docs/selfie.PNG'> 
+<img src='https://github.com/linatude/scheme-windows-tiled-shell/blob/2021-05-15/docs/selfie.PNG'> 
 
 - Have fun in a fast interactive workspace.
 - Create animations using direct 2D accelerated graphics.
